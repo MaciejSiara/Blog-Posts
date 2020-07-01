@@ -1,0 +1,43 @@
+.newPost {
+   //    display: flex;
+   //    flex-direction: column;
+   max-width: 80%;
+   margin: 20px auto;
+   text-align: center;
+
+   & label {
+      display: block;
+      margin: 10px auto;
+      text-align: center;
+      font-weight: bold;
+   }
+
+   & input,
+   & textarea,
+   & select {
+      display: block;
+      width: 80%;
+      margin: auto;
+      border: 1px solid black;
+      outline: none;
+      font: inherit;
+   }
+
+   & button {
+      margin: 5px 0;
+      padding: 10px;
+      font: inherit;
+      border: 1px solid #fa923f;
+      background-color: transparent;
+      color: #fa923f;
+      cursor: pointer;
+      transition: all 0.15s;
+      outline: none;
+
+      &:hover,
+      &:active {
+         color: white;
+         background-color: #fa923f;
+      }
+   }
+}
