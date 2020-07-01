@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MaciejSiara/Blog-Posts/static/css/main.5328f353.chunk.css",
-    "main.js": "/MaciejSiara/Blog-Posts/static/js/main.3504b124.chunk.js",
-    "main.js.map": "/MaciejSiara/Blog-Posts/static/js/main.3504b124.chunk.js.map",
-    "runtime-main.js": "/MaciejSiara/Blog-Posts/static/js/runtime-main.35d5bca5.js",
-    "runtime-main.js.map": "/MaciejSiara/Blog-Posts/static/js/runtime-main.35d5bca5.js.map",
-    "static/js/2.1f63e8b6.chunk.js": "/MaciejSiara/Blog-Posts/static/js/2.1f63e8b6.chunk.js",
-    "static/js/2.1f63e8b6.chunk.js.map": "/MaciejSiara/Blog-Posts/static/js/2.1f63e8b6.chunk.js.map",
-    "index.html": "/MaciejSiara/Blog-Posts/index.html",
-    "precache-manifest.bdd0b8a9619c81e73483784f4fdac9b9.js": "/MaciejSiara/Blog-Posts/precache-manifest.bdd0b8a9619c81e73483784f4fdac9b9.js",
-    "service-worker.js": "/MaciejSiara/Blog-Posts/service-worker.js",
-    "static/css/main.5328f353.chunk.css.map": "/MaciejSiara/Blog-Posts/static/css/main.5328f353.chunk.css.map",
-    "static/js/2.1f63e8b6.chunk.js.LICENSE.txt": "/MaciejSiara/Blog-Posts/static/js/2.1f63e8b6.chunk.js.LICENSE.txt"
+    "main.css": "/Blog-Posts/static/css/main.5328f353.chunk.css",
+    "main.js": "/Blog-Posts/static/js/main.3504b124.chunk.js",
+    "main.js.map": "/Blog-Posts/static/js/main.3504b124.chunk.js.map",
+    "runtime-main.js": "/Blog-Posts/static/js/runtime-main.3e23ba9e.js",
+    "runtime-main.js.map": "/Blog-Posts/static/js/runtime-main.3e23ba9e.js.map",
+    "static/js/2.1f63e8b6.chunk.js": "/Blog-Posts/static/js/2.1f63e8b6.chunk.js",
+    "static/js/2.1f63e8b6.chunk.js.map": "/Blog-Posts/static/js/2.1f63e8b6.chunk.js.map",
+    "index.html": "/Blog-Posts/index.html",
+    "precache-manifest.aefd0c419b67be6dc9a0ff97ceb6d6bd.js": "/Blog-Posts/precache-manifest.aefd0c419b67be6dc9a0ff97ceb6d6bd.js",
+    "service-worker.js": "/Blog-Posts/service-worker.js",
+    "static/css/main.5328f353.chunk.css.map": "/Blog-Posts/static/css/main.5328f353.chunk.css.map",
+    "static/js/2.1f63e8b6.chunk.js.LICENSE.txt": "/Blog-Posts/static/js/2.1f63e8b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35d5bca5.js",
+    "static/js/runtime-main.3e23ba9e.js",
     "static/js/2.1f63e8b6.chunk.js",
     "static/css/main.5328f353.chunk.css",
     "static/js/main.3504b124.chunk.js"
