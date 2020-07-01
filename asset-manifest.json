@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MaciejSiara/Blog-Posts/static/css/main.5328f353.chunk.css",
+    "main.js": "/MaciejSiara/Blog-Posts/static/js/main.3504b124.chunk.js",
+    "main.js.map": "/MaciejSiara/Blog-Posts/static/js/main.3504b124.chunk.js.map",
+    "runtime-main.js": "/MaciejSiara/Blog-Posts/static/js/runtime-main.35d5bca5.js",
+    "runtime-main.js.map": "/MaciejSiara/Blog-Posts/static/js/runtime-main.35d5bca5.js.map",
+    "static/js/2.1f63e8b6.chunk.js": "/MaciejSiara/Blog-Posts/static/js/2.1f63e8b6.chunk.js",
+    "static/js/2.1f63e8b6.chunk.js.map": "/MaciejSiara/Blog-Posts/static/js/2.1f63e8b6.chunk.js.map",
+    "index.html": "/MaciejSiara/Blog-Posts/index.html",
+    "precache-manifest.bdd0b8a9619c81e73483784f4fdac9b9.js": "/MaciejSiara/Blog-Posts/precache-manifest.bdd0b8a9619c81e73483784f4fdac9b9.js",
+    "service-worker.js": "/MaciejSiara/Blog-Posts/service-worker.js",
+    "static/css/main.5328f353.chunk.css.map": "/MaciejSiara/Blog-Posts/static/css/main.5328f353.chunk.css.map",
+    "static/js/2.1f63e8b6.chunk.js.LICENSE.txt": "/MaciejSiara/Blog-Posts/static/js/2.1f63e8b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35d5bca5.js",
+    "static/js/2.1f63e8b6.chunk.js",
+    "static/css/main.5328f353.chunk.css",
+    "static/js/main.3504b124.chunk.js"
+  ]
+}
